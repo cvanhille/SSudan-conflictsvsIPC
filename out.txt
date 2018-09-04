@@ -1,0 +1,2 @@
+Number of regressions with a MSE under 10 (for periods organized data): 14 out of 26: 53.8%
+Number of regressions with a MSE under 10 (for states organized data): 3 out of 11: 27.3%
